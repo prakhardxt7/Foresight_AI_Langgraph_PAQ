@@ -1,0 +1,119 @@
+{% extends 'base.html' %}
+{% block title %}Foresight Insights{% endblock %}
+
+{% block content %}
+<style>
+  .card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .query {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 0;
+  }
+
+  .insight-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: flex-start;
+    margin-top: 1rem;
+  }
+
+  .insight-block {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    border-left: 6px solid #4CAF50;
+    width: calc(50% - 1rem);  /* 2-column layout with gap */
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 768px) {
+    .insight-block {
+      width: 100%;  /* Stack on mobile */
+    }
+  }
+
+  .insight-block h4.title {
+    color: #333;
+    margin-top: 0;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .label {
+    font-weight: bold;
+    padding: 6px 10px;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: #fff;
+  }
+
+  .label.green { background-color: #4CAF50; }
+  .label.orange { background-color: #ff9800; }
+  .label.blue { background-color: #2196F3; }
+  .label.purple { background-color: #9c27b0; }
+
+  .back-btn {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 10px 18px;
+    background-color: #f44336;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+  }
+
+  .back-btn:hover {
+    background-color: #d32f2f;
+  }
+
+  p {
+    margin-bottom: 0.6rem;
+    font-size: 0.95rem;
+    color: #555;
+  }
+</style>
+
+<div class="card">
+  <h2>🧠 Your Query</h2>
+  <p class="query">{{ query }}</p>
+</div>
+
+<div class="insight-grid">
+  {% for block in result.split("====") %}
+    {% if block.strip() %}
+      <div class="insight-block">
+        {% for line in block.strip().split("\n") %}
+          {% if line.startswith("🧠 Query") %}
+            <h4 class="title">{{ line }}</h4>
+          {% elif "Forecasting Agent" in line %}
+            <div class="label green">{{ line }}</div>
+          {% elif "MarketWatcher Agent" in line %}
+            <div class="label orange">{{ line }}</div>
+          {% elif "WebSearch Agent" in line %}
+            <div class="label blue">{{ line }}</div>
+          {% elif "FAQs Agent" in line %}
+            <div class="label purple">{{ line }}</div>
+          {% else %}
+            <p>{{ line }}</p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a href="{{ url_for('home') }}" class="back-btn">← Ask Another</a>
+{% endblock %}

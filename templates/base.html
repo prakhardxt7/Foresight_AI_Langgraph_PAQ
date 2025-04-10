@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Business Intelligent Assistant{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <header class="header">
+    <div class="top-bar">
+      <!-- Logo + Title Block -->
+      <div class="logo-container">
+        <img src="{{ url_for('static', filename='images/nykaa_logo.png') }}" alt="Nykaa Logo">
+        <h1 class="logo-title">Business Intelligence Assistant</h1>
+      </div>
+
+      <!-- Navigation -->
+      <nav>
+        <a href="{{ url_for('home') }}">🏠 Home</a>
+        <a href="{{ url_for('about') }}">📘 About</a>
+        {% if user %}
+          <a href="{{ url_for('logout') }}">🔓 Logout</a>
+        {% else %}
+          <a href="{{ url_for('login') }}">🔐 Login</a>
+        {% endif %}
+      </nav>
+    </div>
+
+    {% if user %}
+      <p class="user-greet">👋 Welcome, {{ user }}</p>
+    {% endif %}
+  </header>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <p>⚙️ Powered by <strong>Foresight AI</strong> ·</p>
+  </footer>
+</body>
+</html>

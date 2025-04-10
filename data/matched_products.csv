@@ -1,0 +1,31 @@
+Nykaa_Product_ID,Nykaa_Product_Name,Competitor_Rank,Competitor_Product_ID,Competitor_Product_Name,Similarity_Score
+1001,Nykaa SKINRX Hyaluronic Acid Moisturizer,1,2006,Sugar Aquaholic Hydrating Stick,0.5995
+1001,Nykaa SKINRX Hyaluronic Acid Moisturizer,2,2004,Sugar Ace of Face Foundation Stick - Mocha,0.4765
+1001,Nykaa SKINRX Hyaluronic Acid Moisturizer,3,2007,Purplle Green Tea Face Wash,0.4626
+1005,Nykaa Naturals Shampoo - Apple Cider Vinegar,1,2006,Sugar Aquaholic Hydrating Stick,0.3726
+1005,Nykaa Naturals Shampoo - Apple Cider Vinegar,2,2007,Purplle Green Tea Face Wash,0.3493
+1005,Nykaa Naturals Shampoo - Apple Cider Vinegar,3,2004,Sugar Ace of Face Foundation Stick - Mocha,0.2916
+1008,Nykaa All Day Matte Foundation - Almond,1,2004,Sugar Ace of Face Foundation Stick - Mocha,0.6279
+1008,Nykaa All Day Matte Foundation - Almond,2,2002,Mars Spectra Matte Foundation - Warm Beige,0.6274
+1008,Nykaa All Day Matte Foundation - Almond,3,2008,Mars Matte Look Lipstick - Fuchsia Flush,0.568
+1004,Nykaa Black Magic Liquid Eyeliner,1,2003,Purplle Kajal - Intense Black,0.7506
+1004,Nykaa Black Magic Liquid Eyeliner,2,2009,Sugar Eye Warned You So! Eyeliner - Black Swan,0.6353
+1004,Nykaa Black Magic Liquid Eyeliner,3,2001,Sugar Smudge Me Not Liquid Lipstick - Scarlet,0.5968
+1003,Nykaa Matte To Last Liquid Lipstick - Bombay,1,2008,Mars Matte Look Lipstick - Fuchsia Flush,0.6698
+1003,Nykaa Matte To Last Liquid Lipstick - Bombay,2,2001,Sugar Smudge Me Not Liquid Lipstick - Scarlet,0.602
+1003,Nykaa Matte To Last Liquid Lipstick - Bombay,3,2003,Purplle Kajal - Intense Black,0.5335
+1009,Nykaa Herbal Teas - Digestive,1,2007,Purplle Green Tea Face Wash,0.3496
+1009,Nykaa Herbal Teas - Digestive,2,2006,Sugar Aquaholic Hydrating Stick,0.261
+1009,Nykaa Herbal Teas - Digestive,3,2004,Sugar Ace of Face Foundation Stick - Mocha,0.2245
+1000,Nykaa Wanderlust Strawberry Body Yogurt,1,2000,Purplle Good Vibes Rosehip Radiant Glow Face Serum,0.3933
+1000,Nykaa Wanderlust Strawberry Body Yogurt,2,2007,Purplle Green Tea Face Wash,0.3481
+1000,Nykaa Wanderlust Strawberry Body Yogurt,3,2004,Sugar Ace of Face Foundation Stick - Mocha,0.3424
+1006,Nykaa Naturals Onion & Fenugreek Hair Oil,1,2004,Sugar Ace of Face Foundation Stick - Mocha,0.3345
+1006,Nykaa Naturals Onion & Fenugreek Hair Oil,2,2003,Purplle Kajal - Intense Black,0.3283
+1006,Nykaa Naturals Onion & Fenugreek Hair Oil,3,2007,Purplle Green Tea Face Wash,0.3204
+1002,Nykaa SKINRX Vitamin C Serum,1,2000,Purplle Good Vibes Rosehip Radiant Glow Face Serum,0.5356
+1002,Nykaa SKINRX Vitamin C Serum,2,2006,Sugar Aquaholic Hydrating Stick,0.4674
+1002,Nykaa SKINRX Vitamin C Serum,3,2007,Purplle Green Tea Face Wash,0.4394
+1007,Nykaa Naturals Tea Tree & Neem Face Wash,1,2007,Purplle Green Tea Face Wash,0.7826
+1007,Nykaa Naturals Tea Tree & Neem Face Wash,2,2004,Sugar Ace of Face Foundation Stick - Mocha,0.46
+1007,Nykaa Naturals Tea Tree & Neem Face Wash,3,2006,Sugar Aquaholic Hydrating Stick,0.4406

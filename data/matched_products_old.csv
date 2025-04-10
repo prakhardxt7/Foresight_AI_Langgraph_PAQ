@@ -1,0 +1,286 @@
+Nykaa_Product_ID,Nykaa_Product_Name,Competitor_Rank,Competitor_Product_ID,Competitor_Product_Name,Similarity_Score
+0, Nykaa Cosmetics Get Cheeky Blush Stick - Berry Cute (7.5g),1,9072,Insight Cosmetics - Blush Stick (6.5 gm),0.7336
+0, Nykaa Cosmetics Get Cheeky Blush Stick - Berry Cute (7.5g),2,9073,Vega -  Blush Brush,0.6591
+0, Nykaa Cosmetics Get Cheeky Blush Stick - Berry Cute (7.5g),3,9074,Swiss Beauty -  Pro Blush & Highlight Palette (18gm),0.6234
+1,Kay Beauty Creme Blush (10 ml),1,9071,SUGAR -  Contour De Force Mini Blush (4 gm),0.7174
+1,Kay Beauty Creme Blush (10 ml),2,9073,Vega -  Blush Brush,0.6967
+1,Kay Beauty Creme Blush (10 ml),3,9074,Swiss Beauty -  Pro Blush & Highlight Palette (18gm),0.6896
+2,Kay Beauty Eyeshadow Palette - Pure Bloom (10 gm),1,9061,SUGAR Cosmetics - Blend The Rules Eyeshadow Palette (10 gm),0.8116
+2,Kay Beauty Eyeshadow Palette - Pure Bloom (10 gm),2,9060,Lakme -  9 to 5 Eye Color Quartet Eye Shadow (7gm),0.7074
+2,Kay Beauty Eyeshadow Palette - Pure Bloom (10 gm),3,9062,Maybelline New York - The Nudes Eyeshadow Palette (9 gm),0.705
+3,Kay Beauty Hydrating Foundation (30 gm),1,9055,"Maybelline New York - Liquid Foundation, Matte Finish (30 ml)",0.7178
+3,Kay Beauty Hydrating Foundation (30 gm),2,9059,POND'S  - BB+ Cream (30 gm),0.6747
+3,Kay Beauty Hydrating Foundation (30 gm),3,9057,Recode Studios - HD Luminous Matte Foundation(30 ml),0.6557
+4,Kay Beauty Matte Blush (8.5gm),1,9074,Swiss Beauty -  Pro Blush & Highlight Palette (18gm),0.7247
+4,Kay Beauty Matte Blush (8.5gm),2,9071,SUGAR -  Contour De Force Mini Blush (4 gm),0.6986
+4,Kay Beauty Matte Blush (8.5gm),3,9073,Vega -  Blush Brush,0.6981
+5,Kay Beauty Matteinee Matte Lipstick (1.8 g),1,9051,Maybelline - SuperStay Matte Ink Liquid Lipstick (5 ml),0.7812
+5,Kay Beauty Matteinee Matte Lipstick (1.8 g),2,9050,Mamaearth - Creamy Matte Long Stay Lipstick (4.2 gm),0.7618
+5,Kay Beauty Matteinee Matte Lipstick (1.8 g),3,9054,L'Oréal Paris -  Color Riche Matte Lipstick (2 gm),0.7598
+6,Kay Beauty Volumizing Mascara (12 ml),1,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.8265
+6,Kay Beauty Volumizing Mascara (12 ml),2,9069,Essence -  Lash Princess False Lash Effect Mascara(12 ml),0.8167
+6,Kay Beauty Volumizing Mascara (12 ml),3,9066,Jaquline USA - Lash Perfect Volumizing Mascara (9 ml),0.7711
+7,Nykaa All Day Matte Foundation (30 ml),1,9055,"Maybelline New York - Liquid Foundation, Matte Finish (30 ml)",0.7983
+7,Nykaa All Day Matte Foundation (30 ml),2,9057,Recode Studios - HD Luminous Matte Foundation(30 ml),0.6945
+7,Nykaa All Day Matte Foundation (30 ml),3,9058,NY Bae -  3-in-1 Primer Foundation Serum (30 ml),0.6791
+8,Nykaa At Home Mani Pedi Sicilian Sweet Pea Shower Gel + Body Scrub+ Body Lotion Combo,1,9091,Bath & Body Works - Travel Size Fine Fragrance Mist Duo (80 ml),0.5825
+8,Nykaa At Home Mani Pedi Sicilian Sweet Pea Shower Gel + Body Scrub+ Body Lotion Combo,2,9093,RENEE -  Bath & Body Care Set,0.5809
+8,Nykaa At Home Mani Pedi Sicilian Sweet Pea Shower Gel + Body Scrub+ Body Lotion Combo,3,9092,L'Occitane - Hand Cream Trio Set (Pack of 3) (35 ml),0.54
+9,Nykaa Black Magic Mascara (9 ml),1,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.8099
+9,Nykaa Black Magic Mascara (9 ml),2,9069,Essence -  Lash Princess False Lash Effect Mascara(12 ml),0.7522
+9,Nykaa Black Magic Mascara (9 ml),3,9068,Blue Heaven  - Walkfree Mascara (12 ml),0.7352
+10,Nykaa BlendPro Blush Makeup Brush,1,9073,Vega -  Blush Brush,0.7505
+10,Nykaa BlendPro Blush Makeup Brush,2,9074,Swiss Beauty -  Pro Blush & Highlight Palette (18gm),0.7119
+10,Nykaa BlendPro Blush Makeup Brush,3,9072,Insight Cosmetics - Blush Stick (6.5 gm),0.6924
+11,Nykaa Cosmetics Superlight Volumizing Peptide Mascara (9ml),1,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.736
+11,Nykaa Cosmetics Superlight Volumizing Peptide Mascara (9ml),2,9069,Essence -  Lash Princess False Lash Effect Mascara(12 ml),0.7059
+11,Nykaa Cosmetics Superlight Volumizing Peptide Mascara (9ml),3,9066,Jaquline USA - Lash Perfect Volumizing Mascara (9 ml),0.6984
+12,Nykaa Cosmetics Wanderlust Sun Protection SPF 50 Body Lotion (50 gm),1,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.7793
+12,Nykaa Cosmetics Wanderlust Sun Protection SPF 50 Body Lotion (50 gm),2,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.7645
+12,Nykaa Cosmetics Wanderlust Sun Protection SPF 50 Body Lotion (50 gm),3,9024,Good Vibes Wide Spectrum Protection Sunscreen With SPF 50 (50 g),0.723
+13,Nykaa Curl Power Curling Mascara (8 gm),1,9069,Essence -  Lash Princess False Lash Effect Mascara(12 ml),0.6926
+13,Nykaa Curl Power Curling Mascara (8 gm),2,9066,Jaquline USA - Lash Perfect Volumizing Mascara (9 ml),0.6869
+13,Nykaa Curl Power Curling Mascara (8 gm),3,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.6629
+14,Nykaa Eyes On Me! 10-in-1 Eyeshadow Palette (12 gm),1,9061,SUGAR Cosmetics - Blend The Rules Eyeshadow Palette (10 gm),0.7439
+14,Nykaa Eyes On Me! 10-in-1 Eyeshadow Palette (12 gm),2,9062,Maybelline New York - The Nudes Eyeshadow Palette (9 gm),0.7294
+14,Nykaa Eyes On Me! 10-in-1 Eyeshadow Palette (12 gm),3,9060,Lakme -  9 to 5 Eye Color Quartet Eye Shadow (7gm),0.7071
+15,Nykaa Eyes On Me! 4-in-1 Quad Eyeshadow Palette (5 gm),1,9061,SUGAR Cosmetics - Blend The Rules Eyeshadow Palette (10 gm),0.7128
+15,Nykaa Eyes On Me! 4-in-1 Quad Eyeshadow Palette (5 gm),2,9060,Lakme -  9 to 5 Eye Color Quartet Eye Shadow (7gm),0.7061
+15,Nykaa Eyes On Me! 4-in-1 Quad Eyeshadow Palette (5 gm),3,9062,Maybelline New York - The Nudes Eyeshadow Palette (9 gm),0.6929
+16,Nykaa Get Cheeky! Matte Blush Duo (9gm) ,1,9074,Swiss Beauty -  Pro Blush & Highlight Palette (18gm),0.6335
+16,Nykaa Get Cheeky! Matte Blush Duo (9gm) ,2,9050,Mamaearth - Creamy Matte Long Stay Lipstick (4.2 gm),0.6037
+16,Nykaa Get Cheeky! Matte Blush Duo (9gm) ,3,9071,SUGAR -  Contour De Force Mini Blush (4 gm),0.6012
+17,Nykaa Get Set Matte! Demi Matte Lip Cream (5 ml),1,9051,Maybelline - SuperStay Matte Ink Liquid Lipstick (5 ml),0.7203
+17,Nykaa Get Set Matte! Demi Matte Lip Cream (5 ml),2,9054,L'Oréal Paris -  Color Riche Matte Lipstick (2 gm),0.7129
+17,Nykaa Get Set Matte! Demi Matte Lip Cream (5 ml),3,9052,Lakmé -  Absolute Matte Ultimate Lip Color with Argan Oil (3.5 ml),0.7027
+18,Nykaa Glamoreyes Liquid Eyeliner (5 ml),1,9063,Lakmé - Absolute Shine Line Liquid Eyeliner (4.5 ml),0.7783
+18,Nykaa Glamoreyes Liquid Eyeliner (5 ml),2,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.6845
+18,Nykaa Glamoreyes Liquid Eyeliner (5 ml),3,9061,SUGAR Cosmetics - Blend The Rules Eyeshadow Palette (10 gm),0.6583
+19,Nykaa Glow All Day Illuminating Strobe Cream + Highlighter + MoisturizerÂ (30 gm),1,9008,Lakme Lumi Lit Strobe Cream Highlighter + Moisturizer + Primer (30 gm),0.7827
+19,Nykaa Glow All Day Illuminating Strobe Cream + Highlighter + MoisturizerÂ (30 gm),2,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.6039
+19,Nykaa Glow All Day Illuminating Strobe Cream + Highlighter + MoisturizerÂ (30 gm),3,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.5998
+20,Nykaa Lash Talk Super Sizer Volumizing Mascara ( 8 gm ),1,9066,Jaquline USA - Lash Perfect Volumizing Mascara (9 ml),0.7644
+20,Nykaa Lash Talk Super Sizer Volumizing Mascara ( 8 gm ),2,9069,Essence -  Lash Princess False Lash Effect Mascara(12 ml),0.7189
+20,Nykaa Lash Talk Super Sizer Volumizing Mascara ( 8 gm ),3,9065,SUGAR POP -  Volumizing Mascara Black (9 ml),0.7124
+21,Nykaa Love Struck Perfume - Crazy In Love (50 ml),1,9079,All Good Scents – Love & Joy Eau De Parfum (30 ml),0.8353
+21,Nykaa Love Struck Perfume - Crazy In Love (50 ml),2,9075,The Body Shop -  Glowing Cherry Blossom Eau De Parfum For Women (50ml),0.7345
+21,Nykaa Love Struck Perfume - Crazy In Love (50 ml),3,9076,Plum - BodyLovin’ Vanilla Vibes Eau De Parfum (50 ml),0.7327
+22,Nykaa Love Struck Perfume - Love You So Mochi (50 ml) ,1,9079,All Good Scents – Love & Joy Eau De Parfum (30 ml),0.7589
+22,Nykaa Love Struck Perfume - Love You So Mochi (50 ml) ,2,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.6982
+22,Nykaa Love Struck Perfume - Love You So Mochi (50 ml) ,3,9078,Layer'r - Wottagirl Secret Crush Body Splash / EDP ( 135 ml),0.6979
+23,Nykaa Love Struck Perfume - Skip A Beat (50 ml),1,9079,All Good Scents – Love & Joy Eau De Parfum (30 ml),0.8102
+23,Nykaa Love Struck Perfume - Skip A Beat (50 ml),2,9076,Plum - BodyLovin’ Vanilla Vibes Eau De Parfum (50 ml),0.7313
+23,Nykaa Love Struck Perfume - Skip A Beat (50 ml),3,9078,Layer'r - Wottagirl Secret Crush Body Splash / EDP ( 135 ml),0.7167
+24,Nykaa Love Struck Perfume - Stay With Me (50 ml),1,9079,All Good Scents – Love & Joy Eau De Parfum (30 ml),0.8105
+24,Nykaa Love Struck Perfume - Stay With Me (50 ml),2,9076,Plum - BodyLovin’ Vanilla Vibes Eau De Parfum (50 ml),0.7307
+24,Nykaa Love Struck Perfume - Stay With Me (50 ml),3,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7225
+25,Nykaa Love Struck Perfume - Talk All Night (50 ml),1,9079,All Good Scents – Love & Joy Eau De Parfum (30 ml),0.8079
+25,Nykaa Love Struck Perfume - Talk All Night (50 ml),2,9076,Plum - BodyLovin’ Vanilla Vibes Eau De Parfum (50 ml),0.7214
+25,Nykaa Love Struck Perfume - Talk All Night (50 ml),3,9075,The Body Shop -  Glowing Cherry Blossom Eau De Parfum For Women (50ml),0.7189
+26,Nykaa Love Struck Perfume Gift Set (Pack of 3 - 48ml),1,9092,L'Occitane - Hand Cream Trio Set (Pack of 3) (35 ml),0.76
+26,Nykaa Love Struck Perfume Gift Set (Pack of 3 - 48ml),2,9090,Ajmal - Artisan Luxury Fragrance Eau de Parfum Gift Set - Pack of 4 (80 ml),0.7575
+26,Nykaa Love Struck Perfume Gift Set (Pack of 3 - 48ml),3,9094,The Body Shop -  British Rose Ultimate Collection,0.7016
+27,Nykaa Love Struck Roll On - Crazy In Love (16 ml),1,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7803
+27,Nykaa Love Struck Roll On - Crazy In Love (16 ml),2,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.7691
+27,Nykaa Love Struck Roll On - Crazy In Love (16 ml),3,9087,Almas Deed's -  Pocket Liquid Rose Perfume,0.7325
+28,Nykaa Love Struck Roll On - Love You So Mochi (16 ml),1,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.7352
+28,Nykaa Love Struck Roll On - Love You So Mochi (16 ml),2,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7297
+28,Nykaa Love Struck Roll On - Love You So Mochi (16 ml),3,9089,Arochem  - Zannatul Firdaus Roll-On (6ml),0.6891
+29,Nykaa Love Struck Roll On - Skip A Beat (16 ml),1,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7671
+29,Nykaa Love Struck Roll On - Skip A Beat (16 ml),2,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.7422
+29,Nykaa Love Struck Roll On - Skip A Beat (16 ml),3,9089,Arochem  - Zannatul Firdaus Roll-On (6ml),0.7383
+30,Nykaa Love Struck Roll On - Stay With Me (16 ml),1,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7909
+30,Nykaa Love Struck Roll On - Stay With Me (16 ml),2,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.7518
+30,Nykaa Love Struck Roll On - Stay With Me (16 ml),3,9089,Arochem  - Zannatul Firdaus Roll-On (6ml),0.7477
+31,Nykaa Love Struck Roll On - Talk All Night (16 ml),1,9086,Arihant Fragrance -  Al Habib Attar Roll-On Perfume(16 ml),0.7725
+31,Nykaa Love Struck Roll On - Talk All Night (16 ml),2,9087,Almas Deed's -  Pocket Liquid Rose Perfume,0.7394
+31,Nykaa Love Struck Roll On - Talk All Night (16 ml),3,9088,Ajmal  - Sacred Love Perfume Oil(10 ml),0.7327
+32,Nykaa Matte To Last! Liquid Lipstick (6.2 ml),1,9051,Maybelline - SuperStay Matte Ink Liquid Lipstick (5 ml),0.7864
+32,Nykaa Matte To Last! Liquid Lipstick (6.2 ml),2,9052,Lakmé -  Absolute Matte Ultimate Lip Color with Argan Oil (3.5 ml),0.7187
+32,Nykaa Matte To Last! Liquid Lipstick (6.2 ml),3,9050,Mamaearth - Creamy Matte Long Stay Lipstick (4.2 gm),0.7074
+33,"Nykaa Naturals Advanced Hair Growth Oil with Rosemary, Curry Leaves, Coconut & Hibiscus Oil(200ml)",1,9035,Dabur Vatika - Rosemary Hair Growth Oil with Hibiscus & Coconut Oil (200ml),0.8478
+33,"Nykaa Naturals Advanced Hair Growth Oil with Rosemary, Curry Leaves, Coconut & Hibiscus Oil(200ml)",2,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.7362
+33,"Nykaa Naturals Advanced Hair Growth Oil with Rosemary, Curry Leaves, Coconut & Hibiscus Oil(200ml)",3,9038,Mamaearth - Rice Hair Oil with Rice Bran & Coconut Oil (150ml),0.7032
+34,Nykaa Naturals Amla & Curry Leaves Conditioner(180ml),1,9032,Khadi Natural - Amla & Bhringraj Hair Conditioner (210 ml),0.7848
+34,Nykaa Naturals Amla & Curry Leaves Conditioner(180ml),2,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.7021
+34,Nykaa Naturals Amla & Curry Leaves Conditioner(180ml),3,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.6823
+35,Nykaa Naturals Amla & Curry Leaves Hair Mask(200ml),1,9042,Khadi Natural  - Amla & Bhringraj Hair Mask (200 ml),0.8149
+35,Nykaa Naturals Amla & Curry Leaves Hair Mask(200ml),2,9041,Mamaearth -  Onion Hair Mask with Onion Oil and Organic Bamboo Vinegar (200 ml),0.6728
+35,Nykaa Naturals Amla & Curry Leaves Hair Mask(200ml),3,9047,Khadi Natural - Amla Hair Serum (50 ml),0.6689
+36,Nykaa Naturals Amla & Curry Leaves Hair Oil(200ml),1,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.8236
+36,Nykaa Naturals Amla & Curry Leaves Hair Oil(200ml),2,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.7305
+36,Nykaa Naturals Amla & Curry Leaves Hair Oil(200ml),3,9047,Khadi Natural - Amla Hair Serum (50 ml),0.7043
+37,Nykaa Naturals Amla & Curry Leaves Shampoo(200ml),1,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.8071
+37,Nykaa Naturals Amla & Curry Leaves Shampoo(200ml),2,9047,Khadi Natural - Amla Hair Serum (50 ml),0.718
+37,Nykaa Naturals Amla & Curry Leaves Shampoo(200ml),3,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.6893
+38,Nykaa Naturals Amla & Curry Leaves Strengthening Serum(50ml),1,9047,Khadi Natural - Amla Hair Serum (50 ml),0.7722
+38,Nykaa Naturals Amla & Curry Leaves Strengthening Serum(50ml),2,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.6837
+38,Nykaa Naturals Amla & Curry Leaves Strengthening Serum(50ml),3,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.635
+39,"Nykaa Naturals Anti-Frizz Sulphate-Free Shampoo With Fermented Rice Water, Bamboo and Argan Oil(200ml)",1,9033,StBotanica - GO Anti-Frizz Hair Rice Water Conditioner (200 ml),0.7044
+39,"Nykaa Naturals Anti-Frizz Sulphate-Free Shampoo With Fermented Rice Water, Bamboo and Argan Oil(200ml)",2,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.6904
+39,"Nykaa Naturals Anti-Frizz Sulphate-Free Shampoo With Fermented Rice Water, Bamboo and Argan Oil(200ml)",3,9029,Buds & Berries Rice Water and Chia Seeds Nourishing Shampoo (300 ml),0.6684
+40,Nykaa Naturals Apple Cider Vinegar & Ginger Anti-Dandruff Serum(50ml),1,9025,StBotanica Apple Cider Vinegar & Organic Argan Oil Hair Shampoo (200 ml),0.6959
+40,Nykaa Naturals Apple Cider Vinegar & Ginger Anti-Dandruff Serum(50ml),2,9047,Khadi Natural - Amla Hair Serum (50 ml),0.683
+40,Nykaa Naturals Apple Cider Vinegar & Ginger Anti-Dandruff Serum(50ml),3,9039,StBotanica Apple Cider Vinegar & Argan Oil Hair Oil (200ml),0.6571
+41,Nykaa Naturals Apple Cider Vinegar & Ginger Conditioner(180ml),1,9030,Wow - Apple Cider Vinegar Conditioner (300ml),0.806
+41,Nykaa Naturals Apple Cider Vinegar & Ginger Conditioner(180ml),2,9025,StBotanica Apple Cider Vinegar & Organic Argan Oil Hair Shampoo (200 ml),0.7372
+41,Nykaa Naturals Apple Cider Vinegar & Ginger Conditioner(180ml),3,9032,Khadi Natural - Amla & Bhringraj Hair Conditioner (210 ml),0.7138
+42,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Mask(200ml),1,9040,WOW - Apple Cider Vinegar Hair Mask with Apple Cider Vinegar & Sweet Almond Oil (200 ml),0.8046
+42,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Mask(200ml),2,9041,Mamaearth -  Onion Hair Mask with Onion Oil and Organic Bamboo Vinegar (200 ml),0.7282
+42,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Mask(200ml),3,9042,Khadi Natural  - Amla & Bhringraj Hair Mask (200 ml),0.7063
+43,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Oil(200ml),1,9039,StBotanica Apple Cider Vinegar & Argan Oil Hair Oil (200ml),0.8147
+43,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Oil(200ml),2,9025,StBotanica Apple Cider Vinegar & Organic Argan Oil Hair Shampoo (200 ml),0.7712
+43,Nykaa Naturals Apple Cider Vinegar & Ginger Hair Oil(200ml),3,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.7436
+44,Nykaa Naturals Apple Cider Vinegar & Ginger Shampoo(200ml),1,9025,StBotanica Apple Cider Vinegar & Organic Argan Oil Hair Shampoo (200 ml),0.8066
+44,Nykaa Naturals Apple Cider Vinegar & Ginger Shampoo(200ml),2,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.7337
+44,Nykaa Naturals Apple Cider Vinegar & Ginger Shampoo(200ml),3,9030,Wow - Apple Cider Vinegar Conditioner (300ml),0.728
+45,Nykaa Naturals Charcoal & Bamboo Sheet Mask(20 ml),1,9015,Reema & Luna Charcoal Face Sheet Mask (25ml),0.7519
+45,Nykaa Naturals Charcoal & Bamboo Sheet Mask(20 ml),2,9016,Mamaearth Rice Water Bamboo Sheet Mask with Rice Water & Coconut Milk for Deep Hydration(25 gm),0.7096
+45,Nykaa Naturals Charcoal & Bamboo Sheet Mask(20 ml),3,9017,Mirabelle Papaya Fairness Facial Mask (25 ml),0.6955
+46,Nykaa Naturals Daily Defense Sunscreen SPF 45 PA+++ (50 gm),1,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.8002
+46,Nykaa Naturals Daily Defense Sunscreen SPF 45 PA+++ (50 gm),2,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.7769
+46,Nykaa Naturals Daily Defense Sunscreen SPF 45 PA+++ (50 gm),3,9022,Foxtale SPF 50 Vitamin C Glow Sunscreen with PA++++ & Niacinamide(50 ml),0.7544
+47,Nykaa Naturals Fermented Rice Water & Bamboo Conditioner(180ml),1,9033,StBotanica - GO Anti-Frizz Hair Rice Water Conditioner (200 ml),0.676
+47,Nykaa Naturals Fermented Rice Water & Bamboo Conditioner(180ml),2,9048,WishCare -  Fermented Rice Water Hair Serum (30 ml),0.6755
+47,Nykaa Naturals Fermented Rice Water & Bamboo Conditioner(180ml),3,9032,Khadi Natural - Amla & Bhringraj Hair Conditioner (210 ml),0.6496
+48,Nykaa Naturals Fermented Rice Water & Bamboo Hair Mask(200ml),1,9043,WishCare Fermented Rice Water Hair Mask- Strength & Growth Formula (200 ml),0.7588
+48,Nykaa Naturals Fermented Rice Water & Bamboo Hair Mask(200ml),2,9048,WishCare -  Fermented Rice Water Hair Serum (30 ml),0.7056
+48,Nykaa Naturals Fermented Rice Water & Bamboo Hair Mask(200ml),3,9041,Mamaearth -  Onion Hair Mask with Onion Oil and Organic Bamboo Vinegar (200 ml),0.6784
+49,Nykaa Naturals Fermented Rice Water & Bamboo Hair Oil(200ml),1,9038,Mamaearth - Rice Hair Oil with Rice Bran & Coconut Oil (150ml),0.7755
+49,Nykaa Naturals Fermented Rice Water & Bamboo Hair Oil(200ml),2,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.7701
+49,Nykaa Naturals Fermented Rice Water & Bamboo Hair Oil(200ml),3,9048,WishCare -  Fermented Rice Water Hair Serum (30 ml),0.7094
+50,Nykaa Naturals Fermented Rice Water & Bamboo Repair Serum(50ml),1,9048,WishCare -  Fermented Rice Water Hair Serum (30 ml),0.7669
+50,Nykaa Naturals Fermented Rice Water & Bamboo Repair Serum(50ml),2,9049,"Dusky Monk - Hair  Serum, With  Reetha, Shikakai (30 ml)",0.6619
+50,Nykaa Naturals Fermented Rice Water & Bamboo Repair Serum(50ml),3,9047,Khadi Natural - Amla Hair Serum (50 ml),0.6586
+51,Nykaa Naturals Gooseberry & Papaya Sheet Mask(20 ml),1,9017,Mirabelle Papaya Fairness Facial Mask (25 ml),0.7501
+51,Nykaa Naturals Gooseberry & Papaya Sheet Mask(20 ml),2,9015,Reema & Luna Charcoal Face Sheet Mask (25ml),0.671
+51,Nykaa Naturals Gooseberry & Papaya Sheet Mask(20 ml),3,9016,Mamaearth Rice Water Bamboo Sheet Mask with Rice Water & Coconut Milk for Deep Hydration(25 gm),0.6528
+52,Nykaa Naturals Honey & Saffron Radiance Boosting Face Wash(100ml),1,9001,Mars  Honey & Saffron Radiance Boosting Face Wash(120 ml),0.8978
+52,Nykaa Naturals Honey & Saffron Radiance Boosting Face Wash(100ml),2,9000,Aroma Magic Neem & Tea Tree Face Wash(100ml),0.7102
+52,Nykaa Naturals Honey & Saffron Radiance Boosting Face Wash(100ml),3,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.6968
+53,Nykaa Naturals Lemon & Honey Sheet Mask(20 ml),1,9017,Mirabelle Papaya Fairness Facial Mask (25 ml),0.7217
+53,Nykaa Naturals Lemon & Honey Sheet Mask(20 ml),2,9015,Reema & Luna Charcoal Face Sheet Mask (25ml),0.6954
+53,Nykaa Naturals Lemon & Honey Sheet Mask(20 ml),3,9018,Garnier Skin Naturals Light Complete Serum Mask(28 gm),0.6928
+54,Nykaa Naturals Onion & Fenugreek Conditioner(180ml),1,9034,SESA - Onion Conditioner with Reetha & Shikakai (300 ml),0.7846
+54,Nykaa Naturals Onion & Fenugreek Conditioner(180ml),2,9031,Mamaearth Onion Conditioner with Onion & Coconut (250 ml),0.7747
+54,Nykaa Naturals Onion & Fenugreek Conditioner(180ml),3,9032,Khadi Natural - Amla & Bhringraj Hair Conditioner (210 ml),0.688
+55,Nykaa Naturals Onion & Fenugreek Hair Growth Serum(50ml),1,9045,Mamaearth - Onion Scalp Serum for Healthy Hair Growth (50 ml),0.7572
+55,Nykaa Naturals Onion & Fenugreek Hair Growth Serum(50ml),2,9047,Khadi Natural - Amla Hair Serum (50 ml),0.6928
+55,Nykaa Naturals Onion & Fenugreek Hair Growth Serum(50ml),3,9036,VLCC - Onion & Fenugreek Hair Oil (200ml),0.6503
+56,Nykaa Naturals Onion & Fenugreek Hair Mask(200ml),1,9041,Mamaearth -  Onion Hair Mask with Onion Oil and Organic Bamboo Vinegar (200 ml),0.7628
+56,Nykaa Naturals Onion & Fenugreek Hair Mask(200ml),2,9042,Khadi Natural  - Amla & Bhringraj Hair Mask (200 ml),0.7066
+56,Nykaa Naturals Onion & Fenugreek Hair Mask(200ml),3,9036,VLCC - Onion & Fenugreek Hair Oil (200ml),0.6365
+57,Nykaa Naturals Onion & Fenugreek Hair Oil(200ml),1,9036,VLCC - Onion & Fenugreek Hair Oil (200ml),0.7893
+57,Nykaa Naturals Onion & Fenugreek Hair Oil(200ml),2,9037,Khadi Natural - Amla & Brahmi Hair Oil (210ml),0.7336
+57,Nykaa Naturals Onion & Fenugreek Hair Oil(200ml),3,9035,Dabur Vatika - Rosemary Hair Growth Oil with Hibiscus & Coconut Oil (200ml),0.6983
+58,Nykaa Naturals Onion & Fenugreek Shampoo(200ml),1,9026,WOW Skin Science Onion Shampoo with Black Seed Oil Extracts (250 ml),0.7027
+58,Nykaa Naturals Onion & Fenugreek Shampoo(200ml),2,9036,VLCC - Onion & Fenugreek Hair Oil (200ml),0.679
+58,Nykaa Naturals Onion & Fenugreek Shampoo(200ml),3,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.6748
+59,Nykaa Naturals Pomegranate & Aloe Vera Sheet Mask(20 ml),1,9019,The Face Shop Real Nature Pomegranate Face Mask(20g),0.7501
+59,Nykaa Naturals Pomegranate & Aloe Vera Sheet Mask(20 ml),2,9015,Reema & Luna Charcoal Face Sheet Mask (25ml),0.6469
+59,Nykaa Naturals Pomegranate & Aloe Vera Sheet Mask(20 ml),3,9017,Mirabelle Papaya Fairness Facial Mask (25 ml),0.6454
+60,Nykaa Naturals Reetha & Shikakai Conditioner(180ml),1,9032,Khadi Natural - Amla & Bhringraj Hair Conditioner (210 ml),0.8105
+60,Nykaa Naturals Reetha & Shikakai Conditioner(180ml),2,9034,SESA - Onion Conditioner with Reetha & Shikakai (300 ml),0.7774
+60,Nykaa Naturals Reetha & Shikakai Conditioner(180ml),3,9049,"Dusky Monk - Hair  Serum, With  Reetha, Shikakai (30 ml)",0.7031
+61,Nykaa Naturals Reetha & Shikakai Hair Mask(200ml),1,9042,Khadi Natural  - Amla & Bhringraj Hair Mask (200 ml),0.812
+61,Nykaa Naturals Reetha & Shikakai Hair Mask(200ml),2,9044,Indus Valley - Deep Nourishing Hair Ultima Spa with Reetha & Shikakai (175 ml),0.7584
+61,Nykaa Naturals Reetha & Shikakai Hair Mask(200ml),3,9049,"Dusky Monk - Hair  Serum, With  Reetha, Shikakai (30 ml)",0.722
+62,Nykaa Naturals Reetha & Shikakai Revitalizing Serum(50ml),1,9049,"Dusky Monk - Hair  Serum, With  Reetha, Shikakai (30 ml)",0.8017
+62,Nykaa Naturals Reetha & Shikakai Revitalizing Serum(50ml),2,9047,Khadi Natural - Amla Hair Serum (50 ml),0.7437
+62,Nykaa Naturals Reetha & Shikakai Revitalizing Serum(50ml),3,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.6369
+63,Nykaa Naturals Rice Water & Bamboo Sheet Mask(20 ml),1,9016,Mamaearth Rice Water Bamboo Sheet Mask with Rice Water & Coconut Milk for Deep Hydration(25 gm),0.844
+63,Nykaa Naturals Rice Water & Bamboo Sheet Mask(20 ml),2,9017,Mirabelle Papaya Fairness Facial Mask (25 ml),0.7041
+63,Nykaa Naturals Rice Water & Bamboo Sheet Mask(20 ml),3,9015,Reema & Luna Charcoal Face Sheet Mask (25ml),0.6582
+64,Nykaa Naturals SUNKISSED GLOW Invisible Sunscreen Gel SPF 50 PA++++ (50 gm),1,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.7957
+64,Nykaa Naturals SUNKISSED GLOW Invisible Sunscreen Gel SPF 50 PA++++ (50 gm),2,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.7888
+64,Nykaa Naturals SUNKISSED GLOW Invisible Sunscreen Gel SPF 50 PA++++ (50 gm),3,9022,Foxtale SPF 50 Vitamin C Glow Sunscreen with PA++++ & Niacinamide(50 ml),0.756
+65,Nykaa Naturals Sandalwood & Orange Peel Face Scrub(100gm),1,9004,Sugar  Sandalwood & Orange Peel Face Scrub(100gm),0.8847
+65,Nykaa Naturals Sandalwood & Orange Peel Face Scrub(100gm),2,9002,Forest Essentials Facial Cleanser Sandalwood & Orange Peel(130 ml),0.8191
+65,Nykaa Naturals Sandalwood & Orange Peel Face Scrub(100gm),3,9003,Mamaearth Tea Tree Face Scrub with Tea Tree and Neem for Skin Purification (100g),0.7278
+66,Nykaa Naturals Sandalwood & Orange Peel Face Wash(100ml),1,9004,Sugar  Sandalwood & Orange Peel Face Scrub(100gm),0.839
+66,Nykaa Naturals Sandalwood & Orange Peel Face Wash(100ml),2,9002,Forest Essentials Facial Cleanser Sandalwood & Orange Peel(130 ml),0.8104
+66,Nykaa Naturals Sandalwood & Orange Peel Face Wash(100ml),3,9000,Aroma Magic Neem & Tea Tree Face Wash(100ml),0.7598
+67,"Nykaa Naturals Scalp Purifying Sulphate-Free Shampoo With Charcoal, Bamboo & Neem(400 ml)",1,9027,Khadi Natural Amla & Bhringraj Hair Cleanser(210 ml),0.685
+67,"Nykaa Naturals Scalp Purifying Sulphate-Free Shampoo With Charcoal, Bamboo & Neem(400 ml)",2,9025,StBotanica Apple Cider Vinegar & Organic Argan Oil Hair Shampoo (200 ml),0.6427
+67,"Nykaa Naturals Scalp Purifying Sulphate-Free Shampoo With Charcoal, Bamboo & Neem(400 ml)",3,9029,Buds & Berries Rice Water and Chia Seeds Nourishing Shampoo (300 ml),0.6099
+68,Nykaa Naturals Tea Tree & Neem Face Scrub(100gm),1,9003,Mamaearth Tea Tree Face Scrub with Tea Tree and Neem for Skin Purification (100g),0.8951
+68,Nykaa Naturals Tea Tree & Neem Face Scrub(100gm),2,9000,Aroma Magic Neem & Tea Tree Face Wash(100ml),0.8484
+68,Nykaa Naturals Tea Tree & Neem Face Scrub(100gm),3,9004,Sugar  Sandalwood & Orange Peel Face Scrub(100gm),0.7329
+69,Nykaa Naturals Tea Tree & Neem Purifying Face Wash(100ml),1,9003,Mamaearth Tea Tree Face Scrub with Tea Tree and Neem for Skin Purification (100g),0.8786
+69,Nykaa Naturals Tea Tree & Neem Purifying Face Wash(100ml),2,9000,Aroma Magic Neem & Tea Tree Face Wash(100ml),0.8699
+69,Nykaa Naturals Tea Tree & Neem Purifying Face Wash(100ml),3,9002,Forest Essentials Facial Cleanser Sandalwood & Orange Peel(130 ml),0.6803
+70,Nykaa Rock The Line Kajal Eyeliner (0.35gm),1,9063,Lakmé - Absolute Shine Line Liquid Eyeliner (4.5 ml),0.6919
+70,Nykaa Rock The Line Kajal Eyeliner (0.35gm),2,9060,Lakme -  9 to 5 Eye Color Quartet Eye Shadow (7gm),0.6424
+70,Nykaa Rock The Line Kajal Eyeliner (0.35gm),3,9064,Plum - NaturStudio All-Day-Wear Kohl Kajal (1.2 gm),0.6405
+71,Nykaa SKINRX Spot Correct 5% Niacinamide Night Moisturizer(50 gm),1,9007,deconstruct Brightening Moisturizer- 5% Niacinamide + 1% Kojic Acid + 5% Vitamin C - 50g,0.5849
+71,Nykaa SKINRX Spot Correct 5% Niacinamide Night Moisturizer(50 gm),2,9005,Neutrogena Hydro Boost Hyaluronic Acid Face Moisturizer (50g),0.5428
+71,Nykaa SKINRX Spot Correct 5% Niacinamide Night Moisturizer(50 gm),3,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.5331
+72,Nykaa SKINRX Ultra Defence Oil Free Sunscreen SPF 50 PA+++ (50 gm),1,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.8065
+72,Nykaa SKINRX Ultra Defence Oil Free Sunscreen SPF 50 PA+++ (50 gm),2,9022,Foxtale SPF 50 Vitamin C Glow Sunscreen with PA++++ & Niacinamide(50 ml),0.7571
+72,Nykaa SKINRX Ultra Defence Oil Free Sunscreen SPF 50 PA+++ (50 gm),3,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.7554
+73,Nykaa SKINRX Ultra Matte Dry Touch Sunscreen SPF 50 PA+++ (50 gm),1,9023,Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++( 30 ml),0.8371
+73,Nykaa SKINRX Ultra Matte Dry Touch Sunscreen SPF 50 PA+++ (50 gm),2,9020,Aqualogica Glow+ Dewy Sunscreen SPF 50 PA++++ (50 gm),0.7926
+73,Nykaa SKINRX Ultra Matte Dry Touch Sunscreen SPF 50 PA+++ (50 gm),3,9022,Foxtale SPF 50 Vitamin C Glow Sunscreen with PA++++ & Niacinamide(50 ml),0.7755
+74,Nykaa SKINRX Vitamin C Moisturizer For Normal To Dry Skin(50 gm),1,9009,Mamaearth Vitamin C Oil-Free Moisturizer(50 gm),0.7104
+74,Nykaa SKINRX Vitamin C Moisturizer For Normal To Dry Skin(50 gm),2,9007,deconstruct Brightening Moisturizer- 5% Niacinamide + 1% Kojic Acid + 5% Vitamin C - 50g,0.6297
+74,Nykaa SKINRX Vitamin C Moisturizer For Normal To Dry Skin(50 gm),3,9005,Neutrogena Hydro Boost Hyaluronic Acid Face Moisturizer (50g),0.6216
+75,Nykaa SKINgenius Sculpting & Hydrating Foundation (30 ml),1,9055,"Maybelline New York - Liquid Foundation, Matte Finish (30 ml)",0.7237
+75,Nykaa SKINgenius Sculpting & Hydrating Foundation (30 ml),2,9058,NY Bae -  3-in-1 Primer Foundation Serum (30 ml),0.6459
+75,Nykaa SKINgenius Sculpting & Hydrating Foundation (30 ml),3,9057,Recode Studios - HD Luminous Matte Foundation(30 ml),0.6286
+76,Nykaa SKINshield Anti-Pollution Matte Foundation (30 ml),1,9056,BLUE HEAVEN - Hyper Anti Pollution Matte Foundation ( 30 ml ),0.7724
+76,Nykaa SKINshield Anti-Pollution Matte Foundation (30 ml),2,9055,"Maybelline New York - Liquid Foundation, Matte Finish (30 ml)",0.7177
+76,Nykaa SKINshield Anti-Pollution Matte Foundation (30 ml),3,9057,Recode Studios - HD Luminous Matte Foundation(30 ml),0.6128
+77,Nykaa Skin Genius BB Cream (30 gm),1,9059,POND'S  - BB+ Cream (30 gm),0.6766
+77,Nykaa Skin Genius BB Cream (30 gm),2,9058,NY Bae -  3-in-1 Primer Foundation Serum (30 ml),0.6665
+77,Nykaa Skin Genius BB Cream (30 gm),3,9055,"Maybelline New York - Liquid Foundation, Matte Finish (30 ml)",0.6326
+78,Nykaa Skin Potion Facial Oil â€“ 24K Gold (30 ml),1,9014,Love Earth 24K Gold Glass Face Oil(30 ml),0.8111
+78,Nykaa Skin Potion Facial Oil â€“ 24K Gold (30 ml),2,9013,Indulgeo Essentials Rose Gold Daily Oil(30 ml),0.7372
+78,Nykaa Skin Potion Facial Oil â€“ 24K Gold (30 ml),3,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.6933
+79,Nykaa Skin Potion Facial Oil â€“ Anti-Acne (30 ml),1,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.7387
+79,Nykaa Skin Potion Facial Oil â€“ Anti-Acne (30 ml),2,9014,Love Earth 24K Gold Glass Face Oil(30 ml),0.7117
+79,Nykaa Skin Potion Facial Oil â€“ Anti-Acne (30 ml),3,9013,Indulgeo Essentials Rose Gold Daily Oil(30 ml),0.7035
+80,Nykaa Skin Potion Facial Oil â€“ Anti-Pigmentation (30 ml),1,9014,Love Earth 24K Gold Glass Face Oil(30 ml),0.7085
+80,Nykaa Skin Potion Facial Oil â€“ Anti-Pigmentation (30 ml),2,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.7032
+80,Nykaa Skin Potion Facial Oil â€“ Anti-Pigmentation (30 ml),3,9013,Indulgeo Essentials Rose Gold Daily Oil(30 ml),0.6811
+81,Nykaa Skin Potion Facial Oil â€“ Dull & Dry Skin (30 ml),1,9014,Love Earth 24K Gold Glass Face Oil(30 ml),0.7301
+81,Nykaa Skin Potion Facial Oil â€“ Dull & Dry Skin (30 ml),2,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.7049
+81,Nykaa Skin Potion Facial Oil â€“ Dull & Dry Skin (30 ml),3,9013,Indulgeo Essentials Rose Gold Daily Oil(30 ml),0.6996
+82,Nykaa Skin Potion Facial Oil â€“ Glow Boosting(30 ml),1,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.7494
+82,Nykaa Skin Potion Facial Oil â€“ Glow Boosting(30 ml),2,9014,Love Earth 24K Gold Glass Face Oil(30 ml),0.7346
+82,Nykaa Skin Potion Facial Oil â€“ Glow Boosting(30 ml),3,9013,Indulgeo Essentials Rose Gold Daily Oil(30 ml),0.6895
+83,Nykaa SkinRX Ceramide Barrier Repair Face MoisturizerÂ (50 gm),1,9006,CeraVe Moisturizer Cream For Dry Skin With Ceramides(50 ml),0.7024
+83,Nykaa SkinRX Ceramide Barrier Repair Face MoisturizerÂ (50 gm),2,9005,Neutrogena Hydro Boost Hyaluronic Acid Face Moisturizer (50g),0.6461
+83,Nykaa SkinRX Ceramide Barrier Repair Face MoisturizerÂ (50 gm),3,9008,Lakme Lumi Lit Strobe Cream Highlighter + Moisturizer + Primer (30 gm),0.5864
+84,Nykaa Skinrx Hyaluronic Acid Face Day Moisturizer(50 gm),1,9005,Neutrogena Hydro Boost Hyaluronic Acid Face Moisturizer (50g),0.81
+84,Nykaa Skinrx Hyaluronic Acid Face Day Moisturizer(50 gm),2,9009,Mamaearth Vitamin C Oil-Free Moisturizer(50 gm),0.5983
+84,Nykaa Skinrx Hyaluronic Acid Face Day Moisturizer(50 gm),3,9011,RAS Luxury Oils Radiance Beauty-Boosting Face Elixir(15 ml),0.5786
+85,Nykaa So Matte! Lipstick (4.2 gm),1,9050,Mamaearth - Creamy Matte Long Stay Lipstick (4.2 gm),0.7693
+85,Nykaa So Matte! Lipstick (4.2 gm),2,9051,Maybelline - SuperStay Matte Ink Liquid Lipstick (5 ml),0.7169
+85,Nykaa So Matte! Lipstick (4.2 gm),3,9054,L'Oréal Paris -  Color Riche Matte Lipstick (2 gm),0.7162
+86,Nykaa Ultra Matte Lipstick (5 gm),1,9050,Mamaearth - Creamy Matte Long Stay Lipstick (4.2 gm),0.7566
+86,Nykaa Ultra Matte Lipstick (5 gm),2,9051,Maybelline - SuperStay Matte Ink Liquid Lipstick (5 ml),0.7494
+86,Nykaa Ultra Matte Lipstick (5 gm),3,9054,L'Oréal Paris -  Color Riche Matte Lipstick (2 gm),0.7275
+87,Nykaa Wanderlust Body Care Set (830ml),1,9093,RENEE -  Bath & Body Care Set,0.7463
+87,Nykaa Wanderlust Body Care Set (830ml),2,9094,The Body Shop -  British Rose Ultimate Collection,0.731
+87,Nykaa Wanderlust Body Care Set (830ml),3,9092,L'Occitane - Hand Cream Trio Set (Pack of 3) (35 ml),0.7243
+88,Nykaa Wanderlust Body Mist - Country Rose  (200 ml),1,9083,Plum -  Rose Body Mist (150 ml),0.7855
+88,Nykaa Wanderlust Body Mist - Country Rose  (200 ml),2,9082,The Body Shop - Lavender Body Mist (100 ml),0.7793
+88,Nykaa Wanderlust Body Mist - Country Rose  (200 ml),3,9084,Plum - Hawaiian Rumba  BodyLovin’ Body Mist (150 ml),0.7497
+89,Nykaa Wanderlust Body Mist - French Lavender (200 ml),1,9082,The Body Shop - Lavender Body Mist (100 ml),0.8537
+89,Nykaa Wanderlust Body Mist - French Lavender (200 ml),2,9081,Victoria’s Secret - Fragrance Mist (250 ml),0.7811
+89,Nykaa Wanderlust Body Mist - French Lavender (200 ml),3,9083,Plum -  Rose Body Mist (150 ml),0.7584
+90,Nykaa Wanderlust Body Mist - Hawaiian Jasmine  (200 ml),1,9084,Plum - Hawaiian Rumba  BodyLovin’ Body Mist (150 ml),0.8111
+90,Nykaa Wanderlust Body Mist - Hawaiian Jasmine  (200 ml),2,9082,The Body Shop - Lavender Body Mist (100 ml),0.76
+90,Nykaa Wanderlust Body Mist - Hawaiian Jasmine  (200 ml),3,9083,Plum -  Rose Body Mist (150 ml),0.7379
+91,Nykaa Wanderlust Body Mist - Japanese Cherry Blossom (200 ml),1,9084,Plum - Hawaiian Rumba  BodyLovin’ Body Mist (150 ml),0.7811
+91,Nykaa Wanderlust Body Mist - Japanese Cherry Blossom (200 ml),2,9083,Plum -  Rose Body Mist (150 ml),0.7566
+91,Nykaa Wanderlust Body Mist - Japanese Cherry Blossom (200 ml),3,9082,The Body Shop - Lavender Body Mist (100 ml),0.7437
+92,Nykaa Wanderlust Body Mist - Sicilian Sweet Pea (200 ml),1,9084,Plum - Hawaiian Rumba  BodyLovin’ Body Mist (150 ml),0.7537
+92,Nykaa Wanderlust Body Mist - Sicilian Sweet Pea (200 ml),2,9082,The Body Shop - Lavender Body Mist (100 ml),0.7175
+92,Nykaa Wanderlust Body Mist - Sicilian Sweet Pea (200 ml),3,9083,Plum -  Rose Body Mist (150 ml),0.704
+93,Nykaa Wanderlust Body Mist Miniature Set ( Pack of 2 - 100 ml),1,9091,Bath & Body Works - Travel Size Fine Fragrance Mist Duo (80 ml),0.7258
+93,Nykaa Wanderlust Body Mist Miniature Set ( Pack of 2 - 100 ml),2,9090,Ajmal - Artisan Luxury Fragrance Eau de Parfum Gift Set - Pack of 4 (80 ml),0.7066
+93,Nykaa Wanderlust Body Mist Miniature Set ( Pack of 2 - 100 ml),3,9092,L'Occitane - Hand Cream Trio Set (Pack of 3) (35 ml),0.7027
+94,Nykaa Wanderlust Hand Cream Gift Set (Pack of 3 - 90 ml),1,9092,L'Occitane - Hand Cream Trio Set (Pack of 3) (35 ml),0.8266
+94,Nykaa Wanderlust Hand Cream Gift Set (Pack of 3 - 90 ml),2,9090,Ajmal - Artisan Luxury Fragrance Eau de Parfum Gift Set - Pack of 4 (80 ml),0.7312
+94,Nykaa Wanderlust Hand Cream Gift Set (Pack of 3 - 90 ml),3,9093,RENEE -  Bath & Body Care Set,0.6803

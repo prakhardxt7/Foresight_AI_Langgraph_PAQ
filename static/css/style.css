@@ -1,0 +1,141 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.header {
+  background: linear-gradient(to right, #d4145a, #fbb03b);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Updated logo container */
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-container img {
+  height: 65px; /* increased from 50px */
+  width: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.logo-container img:hover {
+  transform: scale(1.05);
+}
+
+.logo-title {
+  font-size: 26px; /* increased from 24px */
+  font-weight: 700;
+  color: white;
+  margin: 0;
+}
+
+nav a {
+  margin: 0 10px;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.user-greet {
+  font-size: 14px;
+  color: #ffe6ea;
+}
+
+main {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.card, .insight-block {
+  background-color: white;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+textarea, input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #d4145a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b0124b;
+}
+
+.query {
+  font-weight: bold;
+  background-color: #f3f3f3;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.label {
+  font-weight: bold;
+  margin: 10px 0;
+  padding: 8px 12px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.green { background: #d4edda; color: #155724; }
+.orange { background: #ffe0b3; color: #b36b00; }
+.blue { background: #d1ecf1; color: #0c5460; }
+.purple { background: #e2d6f3; color: #5e35b1; }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eeeeee;
+  font-size: 13px;
+  margin-top: 50px;
+}
+
+.back-btn {
+  display: inline-block;
+  margin-top: 20px;
+  color: #d4145a;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.brand-note {
+  margin-top: 20px;
+  font-weight: 500;
+  color: #d4145a;
+}
